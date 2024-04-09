@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Программа подсчёта суммы карт в игре «21»", "Программа подсчёта суммы карт в игре «21».csproj", "{C813954F-5910-48C4-8671-85B585EACC29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C813954F-5910-48C4-8671-85B585EACC29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C813954F-5910-48C4-8671-85B585EACC29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C813954F-5910-48C4-8671-85B585EACC29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C813954F-5910-48C4-8671-85B585EACC29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8006D0FD-1E34-4469-BEBB-C44469AFF07A}
+	EndGlobalSection
+EndGlobal
